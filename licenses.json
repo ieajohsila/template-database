@@ -1,11 +1,5 @@
 [
   {
-    "Id": "lic-001",
-    "Owner": "admin",
-    "Password": "admin123",
-    "Expiration": "2026-12-31T23:59:59Z"
-  },
-  {
     "Id": "lic-002",
     "Owner": "test",
     "Password": "test123",
