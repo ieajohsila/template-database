@@ -1,7 +1,3 @@
 {
-  "fonts": ["Arial", "Tahoma", "Vazir"],
-  "colors": ["#FFFFFF", "#000000", "#FF0000", "#00FF00", "#0000FF", "#FFFF00"],
-  "default_font_size": 24,
-  "default_color": "#FFFFFF",
-  "layout_types": [4, 6, 9]
+  "layout_types": [2, 4, 6, 9]
 }
